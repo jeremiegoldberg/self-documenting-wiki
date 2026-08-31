@@ -1,5 +1,13 @@
 # self-documenting-wiki
 
+> Documentation that cannot drift, because none of it is written by hand: the
+> index is generated from what your forge already knows about its repositories.
+
+![Go](https://img.shields.io/badge/Go-1.22%2B-00ADD8?logo=go&logoColor=white)
+![Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
+![Forges](https://img.shields.io/badge/forges-GitLab%20%C2%B7%20GitHub-FC6D26?logo=gitlab&logoColor=white)
+![Licence](https://img.shields.io/badge/licence-MIT-blue)
+
 A small Go tool that generates a documentation index from what a code forge
 already knows about its repositories: their description and their topics.
 
